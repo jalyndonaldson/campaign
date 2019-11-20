@@ -1,0 +1,166 @@
+body{
+	background-color: #336699;
+	font-family: 'Sedgwick Ave Display', cursive;
+	color: white;
+	font-size: 70;
+	
+}
+
+p.one {
+	border-style: double;
+	 border-width: 15px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 33.33% 33.33%  33.33%;
+  background-color: #336699;
+padding: 10px;
+}
+
+.grid-item1 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item2 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item3 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item4 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item5 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item6 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns: 50% 50% 50%;
+  background-color: #336699;
+padding: 10px;
+}
+
+.grid-item7 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item8 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-container3 {
+  display: grid;
+  grid-template-columns: 50% 50% 50%;
+  background-color: #336699;
+padding: 10px;
+}
+
+.grid-item9 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+ 
+}
+
+.grid-item10 {
+  background-color: rgba(51,102,153, 0.8);
+  border-style:double;
+   border-width: 15px;
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+
+ 
+}
+
+img{
+	width: 550px;
+	height: 400px;
+}
+
+.fact{
+	height:60px;
+	Width:70px;
+}
+
+.koala{
+	width:850px;
+	height:600px;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+.grid-columns9 {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
